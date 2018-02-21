@@ -1,0 +1,4 @@
+[Settings]
+input_mode = file_input
+sort_algorythm_type = DSU
+

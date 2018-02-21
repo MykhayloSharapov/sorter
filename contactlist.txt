@@ -1,0 +1,5 @@
+Robert Baratheon,M,45
+Jon Snow,M,24
+Daenerys Targaryen,F,25
+Tyrion Lannister,M,33
+
